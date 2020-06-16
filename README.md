@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dockerwp-isolate
 Simple Wordpress with lemp isolated stack build in Docker.
 =======
@@ -81,4 +80,3 @@ $ sudo docker-compose logs
 ## Authors
 
 * **Renan Souza** - *Initial work* - [GitHub](https://github.com/renangraciano)
->>>>>>> fea976ed39821e88c93b308450c0fadba4965537
